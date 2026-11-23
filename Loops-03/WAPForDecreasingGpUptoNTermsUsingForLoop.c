@@ -9,7 +9,4 @@ int main()
         printf("%f ",a);
         a=a*0.5;
   }
-    
-    
-    
     return 0;}
